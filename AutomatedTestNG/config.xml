@@ -1,0 +1,1 @@
+<suite name="sample suit">	<test name="Learning Automation">		<parameter name="baseUrlArg" value="http://192.168.56.4:32266/"/>		<classes>			<class name="autotest.StepDefinitions">			</class>		</classes>	</test></suite>
